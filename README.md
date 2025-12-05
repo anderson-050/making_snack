@@ -2,7 +2,7 @@
 
 A simple and quick web tool to calculate the exact ingredients needed for making the delicious **Mont Leikpya** (a traditional Burmese sticky rice cake). Just enter the number of snacks you want to make, and get your scaled recipe instantly!
 
-🌟 The Story Behind the Recipe
+## 🌟 The Story Behind the Recipe
 This tool was created with love and respect for tradition. My dad makes and sells the delicious Mont Leikpya at the market.
 
 When he receives large orders(sometimes 200, 300, or more),the calculation has to be perfect. Making too little means failing to fulfill the order; making too much results in surplus and loss.
