@@ -29,3 +29,6 @@ This simple calculator is my way of making his preparation easier and more relia
 3.  Click the **"Enter"** button or press `Enter` on your keyboard.
 4.  The **Ingredients Required** box will update with the scaled amounts in grams!
 
+## License
+
+#### [MIT](LICENSE)
