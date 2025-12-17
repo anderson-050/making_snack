@@ -11,7 +11,7 @@ When he receives large orders(sometimes 200, 300, or more),the calculation has t
 
 This simple calculator is my way of making his preparation easier and more reliable, ensuring every batch is just right. It's also perfect for anyone who wants to try making this wonderful snack at home!
 
-## ✨ Features
+## Features
 
 * **Quantity Scaling:** Calculates the required ingredients for **any integer quantity** of Mont Leikpya.
 * **Simple UI:** Clean, mobile-friendly interface.
@@ -24,7 +24,7 @@ This simple calculator is my way of making his preparation easier and more relia
 * **CSS3**
 * **JavaScript**
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Open the `index.html` file** in your web browser.
 2.  **Enter the quantity** (a whole number, e.g., `5` or `12`) into the input field.
