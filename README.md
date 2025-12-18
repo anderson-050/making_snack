@@ -4,7 +4,7 @@ A simple and quick web tool to calculate the exact ingredients needed for making
 
 #### [Video Demo](https://youtu.be/wy1pvfKvuHA?si=mfRP2z3Gumvjeb33)
 
-## 🌟 The Story Behind the Recipe
+## The Story Behind the Recipe
 This tool was created with love and respect for tradition. My dad makes and sells the delicious Mont Leikpya at the market.
 
 When he receives large orders(sometimes 200, 300, or more),the calculation has to be perfect. Making too little means failing to fulfill the order; making too much results in surplus and loss.
@@ -18,7 +18,7 @@ This simple calculator is my way of making his preparation easier and more relia
 * **Instant Feedback:** Animate the results box with a subtle "flash" effect on calculation.
 * **Input Validation:** Ensures only positive integer quantities are accepted.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **HTML5**
 * **CSS3**
