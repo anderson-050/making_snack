@@ -73,7 +73,7 @@
              */
             function calculateIngredients() {
                 // Get the quantity and validate
-                const quantity = parseInt(quantityInput.value, 10);
+                const quantity = Number(quantityInput.value);
 
                 // not a number or not a valid integer quantity
                 if (isNaN(quantity) || quantity <= 0 || !Number.isInteger(quantity)) {
@@ -145,6 +145,7 @@
 
 
 </html>
+
 
 
 
